@@ -1,0 +1,146 @@
+html, body{
+margin: 0;
+}
+header{
+font-family: 'Italic', sans-serif;
+font-family: 'Black Ops One', cursive;
+font-family: 'Londrina Solid', cursive;
+font-style: Italic;
+background-color: #2A243B;
+padding: 20px;
+text-align: center;
+}
+body{
+  background-color: #9A9EC8;
+}
+h1{
+font-size: 90px;
+color: white;
+}
+header img{
+border-radius: 174px;
+ width: 300px;
+ border: 15px solid #934545;
+}
+.shadow{
+  font-size: 220%;
+  text-shadow: 2px 2px #C0C0C0;
+  font-family: 'Italic', sans-serif;
+font-family: 'Black Ops One', cursive;
+font-family: 'Londrina Solid', cursive;
+}
+
+.font{
+  text-shadow: 1px 1px #C1C1C1;
+  font-family: 'Anton', sans-serif;
+font-family: 'Black Ops One', cursive;
+font-family: 'Londrina Solid', cursive;
+  font-size: 145%;
+}
+.content{
+max-width : 900px;
+margin: 0 auto;
+padding: 0 20px;
+}
+img.big-image{
+  max-width: 100%;
+}
+p.caption{
+  font-family: 'Fantasy', sans-serif;
+font-family: 'Black Ops One', cursive;
+font-family: 'Londrina Solid', cursive;
+font-size: 22px;
+color: #AD00B7;
+font-style: Impact;
+text-shadow: 1px 1px #C1C1C1;
+text-align: center;
+}
+#I{
+  display: flex;
+}
+#A{
+  display: flex;
+}
+#S{
+  display: flex;
+}
+#I a{
+	position: relative;
+	top: 30px;
+	left: 20px;
+}
+#A a{
+	position: relative;
+	top: 30px;
+	left: 20px;
+}
+#S a{
+	position: relative;
+	top: 30px;
+	left: 20px;
+}
+#I img{
+	border-radius: 100%;
+	border: 5px solid rgb(69, 91, 148);
+	height: 100px;
+	width: 100px;
+	margin-top: 20px;
+}
+#A img{
+	border-radius: 100%;
+	border: 5px solid rgb(69, 91, 148);
+	height: 100px;
+	width: 100px;
+	margin-top: 20px;
+}
+#S img{
+	border-radius: 100%;
+	border: 5px solid rgb(69, 91, 148);
+	height: 100px;
+	width: 100px;
+	margin: 20px 0;
+}
+#I p{
+	position: relative;
+	top: 50px;
+	left: -120px;
+}
+#A p{
+	position: relative;
+	top: 50px;
+	left: -20px;
+}
+
+#S p{
+	position: relative;
+	top: 50px;
+	left: -40px;
+}
+ul{
+list-style: none;
+padding: 0;
+margin: 0;
+}
+.fant{
+  text-shadow: 1px 1px #C1C1C1;
+  font-family: 'Impact', sans-serif;
+font-family: 'Black Ops One', cursive;
+font-family: 'Londrina Solid', cursive;
+  font-size: 100%;
+}
+a{
+color: darkblue;
+text-decoration: none;
+}
+footer{
+margin-top: 20px;
+padding: 40px 20px;
+background-color: #B6B8CC;
+}
+footer ul{
+text-align: center;
+}
+footer ul li{
+display: inline-block;
+margin: 0 5px;
+}
